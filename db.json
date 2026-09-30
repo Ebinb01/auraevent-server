@@ -121,7 +121,7 @@
         "Conference",
         "Networking"
       ],
-      "id": "1790799131186"
+      "id": "7"
     },
     {
       "title": "Dance Masterclass",
@@ -140,7 +140,7 @@
         "Conference",
         "Networking"
       ],
-      "id": "1790800137551"
+      "id": "8"
     },
     {
       "title": "Guitar Workshop",
@@ -159,14 +159,71 @@
         "Conference",
         "Networking"
       ],
-      "id": "1790805526094"
+      "id": "9"
+    },
+    {
+      "title": "EDM",
+      "category": "Music",
+      "description": "",
+      "date": "2026-10-07",
+      "time": "10:00 AM",
+      "location": "kochi",
+      "isVirtual": false,
+      "price": 0,
+      "capacity": 100,
+      "bannerUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1000&auto=format&fit=crop&q=80",
+      "organizer": "Aura Events Team",
+      "featured": false,
+      "tags": [
+        "Conference",
+        "Networking"
+      ],
+      "id": "10"
+    },
+    {
+      "title": "AI",
+      "category": "Tech",
+      "description": "",
+      "date": "2026-10-07",
+      "time": "10:00 AM",
+      "location": "kochi",
+      "isVirtual": false,
+      "price": 0,
+      "capacity": 100,
+      "bannerUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1000&auto=format&fit=crop&q=80",
+      "organizer": "Aura Events Team",
+      "featured": false,
+      "tags": [
+        "Conference",
+        "Networking"
+      ],
+      "id": "mBqNqR6"
+    },
+    {
+      "title": "Ai",
+      "category": "Tech",
+      "description": "",
+      "date": "2026-10-07",
+      "time": "10:00 AM",
+      "location": "Innovation Hub, Silicon Boulevard",
+      "isVirtual": false,
+      "price": 0,
+      "capacity": 100,
+      "bannerUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1000&auto=format&fit=crop&q=80",
+      "organizer": "Aura Events Team",
+      "featured": false,
+      "tags": [
+        "Conference",
+        "Networking"
+      ],
+      "id": "RZKYMkX"
     }
   ],
   "rsvps": [
     {
-      "id": "r-1790800173708",
+      "id": "1",
       "ticketId": "TKT-5013-BFR",
-      "eventId": "1790800137551",
+      "eventId": "8",
       "userName": "Allbin",
       "userEmail": "albin@gmail.com",
       "tier": "General Admission",
@@ -176,9 +233,9 @@
       "notes": ""
     },
     {
-      "id": "r-1790805549508",
+      "id": "2",
       "ticketId": "TKT-8278-6KA",
-      "eventId": "1790805526094",
+      "eventId": "9",
       "userName": "Ebin",
       "userEmail": "ebin@gmail.com",
       "tier": "General Admission",
@@ -186,6 +243,42 @@
       "createdAt": "2026-09-30T21:59:09.508Z",
       "checkedIn": false,
       "notes": ""
+    },
+    {
+      "ticketId": "TKT-9089-WFF",
+      "eventId": "mBqNqR6",
+      "userName": "Anand",
+      "userEmail": "anand@gmail.com",
+      "tier": "General Admission",
+      "seats": 1,
+      "createdAt": "2026-09-30T22:59:31.532Z",
+      "checkedIn": false,
+      "notes": "",
+      "id": "rhAsWxC"
+    },
+    {
+      "ticketId": "TKT-5945-XWV",
+      "eventId": "7",
+      "userName": "Anand",
+      "userEmail": "anand@gmail.com",
+      "tier": "General Admission",
+      "seats": 1,
+      "createdAt": "2026-09-30T23:00:04.492Z",
+      "checkedIn": false,
+      "notes": "",
+      "id": "M1RM1B7"
+    },
+    {
+      "ticketId": "TKT-7077-KTD",
+      "eventId": "8",
+      "userName": "Alex",
+      "userEmail": "alex@gmail.com",
+      "tier": "General Admission",
+      "seats": 1,
+      "createdAt": "2026-09-30T23:14:11.915Z",
+      "checkedIn": false,
+      "notes": "",
+      "id": "XTBvllb"
     }
   ]
 }
